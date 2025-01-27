@@ -16,6 +16,7 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
             padding: 2rem;
             border-radius: 10px;
             box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            
         }
         .intro-section h2 {
             font-weight: bold;
@@ -24,6 +25,8 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
         .intro-section p {
             font-size: 1.1rem;
             color: #6c757d;
+            text-align: left;
+            text-indent: 2em;
         }
     </style>
  </head>
