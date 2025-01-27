@@ -10,6 +10,22 @@ href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
 T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
  crossorigin="anonymous"
  />
+      <style>
+        .intro-section {
+            background-color: #f8f9fa;
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        .intro-section h2 {
+            font-weight: bold;
+            color: #343a40;
+        }
+        .intro-section p {
+            font-size: 1.1rem;
+            color: #6c757d;
+        }
+    </style>
  </head>
  <body>
   
