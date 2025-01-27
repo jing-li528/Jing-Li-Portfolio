@@ -2,7 +2,7 @@
  <head>
  <meta charset="UTF-8" />
  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<h1>Jing's Online Portfolio</h1>
+<h1>Jing's Portfolio Page</h1>
  <link
 href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
  rel="stylesheet"
@@ -22,16 +22,16 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" href="###">About</a>
+          <a class="nav-link" aria-current="page" href="###">About</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link active" href="###">Journey</a>
+          <a class="nav-link" href="###">Journey</a>
         </li>
         <li class="nav-item">
-         <a class="nav-link active" href="###">Interests</a>
+         <a class="nav-link" href="###">Interests</a>
         </li>
         <li class="nav-item">
-         <a class="nav-link active" href="###">Education</a>
+         <a class="nav-link" href="###">Education</a>
         </li>
       </ul>
       <form class="d-flex" role="search">
