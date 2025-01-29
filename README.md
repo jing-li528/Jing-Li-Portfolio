@@ -37,7 +37,7 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
         .small-img {
             width: 24px;
             height: 24px;
-            display: in-line;
+            display: inline;
             margin-left:auto;
             margin-right: auto;
         }
@@ -80,16 +80,16 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
                 <div class="card">
                     
                     <img src="102-aOwjlDGgD3c.jpeg" class="card-img-top img-thumbnail img-fluid center-img" style="max-width: 40%;" alt="Profile Picture">   
+
+                    <div class="card-body text-center">
+                        <h2>About Me</h2>
+                        <p>Welcome to my portfolio page. I'm Jing Li, a B2B enterprise product leader and strategist with 5 years with Amazon and 16+ years in supply chain/ logistics / eCommerce leadership. My work in Amazon included improving ML/AI platforms that power many tools with in the Amazon ecosystem, robotics and automation performance improvement, and indirect supply chain/ reverse logistics solutions to enable incremental revenue and save millions of dollars. I'm on a mission in 2025 to better understanding how to help businesses thrive in the competitive market place, especiall in the era of agentic AI, and digitization of industries. My focus area will be leveraging industry 4.0/ IIOT concepts and build my own MES, UNS, SCADA and Agentic orchestration prototypes, as well as completing my MIT / UC Berkeley programs to upskill in coding and ML/AI. Please feel free to check out my demos below and reach out to me if you have any questions.</p>
                     <a href="https://www.linkedin.com/in/jingli528" target="_blank">
                     <img src="icon1.png" class="small-img" alt="LinkedIn icon">
                     </a>
                     <a href="mailto: jing.li5282013@gmail.com">
                     <img src="icon2.png" class="small-img" alt="Email icon">
                     </a>
-                    <div class="card-body text-center">
-                        <h2>About Me</h2>
-                        <p>Welcome to my portfolio page. I'm Jing Li, a B2B enterprise product leader and strategist with 5 years with Amazon and 16+ years in supply chain/ logistics / eCommerce leadership. My work in Amazon included improving ML/AI platforms that power many tools with in the Amazon ecosystem, robotics and automation performance improvement, and indirect supply chain/ reverse logistics solutions to enable incremental revenue and save millions of dollars. I'm on a mission in 2025 to better understanding how to help businesses thrive in the competitive market place, especiall in the era of agentic AI, and digitization of industries. My focus area will be leveraging industry 4.0/ IIOT concepts and build my own MES, UNS, SCADA and Agentic orchestration prototypes, as well as completing my MIT / UC Berkeley programs to upskill in coding and ML/AI. Please feel free to check out my demos below and reach out to me if you have any questions.</p>
-
                     </div>
                 </div>
             </div>
