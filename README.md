@@ -61,16 +61,19 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
 <!-- Navigation bar ends here --> 
 
 <!-- About me section starts here -->
-   <div class="container mt-5">
+   <div class="container-fluid mt-5">
         <div class="row">
             <div class="col-md-6 offset-md-3">
                 <div class="card">
-                    <img src="102-aOwjlDGgD3c.jpeg" class="card-img-top img-thumbnail img-fluid" style="max-width: 18%;" alt="Profile Picture">
+                    
+                    <img src="102-aOwjlDGgD3c.jpeg" class="card-img-top img-thumbnail img-fluid" style="max-width: 20%;" alt="Profile Picture">
                     <div class="card-body">
                         <h2>About Me</h2>
                         <p>Welcome to my portfolio page. I'm Jing Li, a B2B enterprise product leader and strategist with 5 years with Amazon and 16+ years in supply chain/ logistics / eCommerce leadership. My work in Amazon included improving ML/AI platforms that power many tools with in the Amazon ecosystem, robotics and automation performance improvement, and indirect supply chain/ reverse logistics solutions to enable incremental revenue and save millions of dollars. I'm on a mission in 2025 to better understanding how to help businesses thrive in the competitive market place, especiall in the era of agentic AI, and digitization of industries. My focus area will be leveraging industry 4.0/ IIOT concepts and build my own MES, UNS, SCADA and Agentic orchestration prototypes, as well as completing my MIT / UC Berkeley programs to upskill in coding and ML/AI. Please feel free to check out my demos below and reach out to me if you have any questions.</p>
-                        <a href="https://www.linkedin.com/in/yourprofile" target="_blank" class="btn btn-primary">
-                            <i class="fab fa-linkedin"></i> Connect on LinkedIn
+                        <a href="https://www.linkedin.com/in/jingli528" target="_blank" class="btn btn-primary">
+                            <i class="fab fa-linkedin"></i> Connect on LinkedIn 
+                            <img src="icon1.png" class="img-thumbnail" alt="LinkedIn icon">
+                        </a>
                     </div>
                 </div>
             </div>
