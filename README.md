@@ -65,10 +65,12 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
         <div class="row">
             <div class="col-md-6 offset-md-3">
                 <div class="card">
-                    <img src="102-aOwjlDGgD3c.jpeg" class="card-img-top img-thumbnail img-fluid" style="max-width: 30%;" alt="Profile Picture">
+                    <img src="102-aOwjlDGgD3c.jpeg" class="card-img-top img-thumbnail img-fluid" style="max-width: 18%;" alt="Profile Picture">
                     <div class="card-body">
                         <h2>About Me</h2>
-                        <p>Welcome to my portfolio page. I'm Jing Li, a B2B enterprise product leader and strategist with 5 years with Amazon and 16+ years in supply chain/ logistics / eCommerce leadership. My work in Amazon included improving ML/AI platforms that power many tools with in the Amazon ecosystem, robotics and automation performance improvement, and indirect supply chain/ reverse logistics solutions to enable incremental revenue and save millions of dollars. I'm on a mission in 2025 to better understanding how to help businesses thrive in the competitive market place, especiall in the era of agentic AI, and digitization of industries. My focus area will be leveraging industry 4.0/ IIOT concepts and build my own MES, UNS, SCADA and Agentic orchestration prototypes, as well as completing my MIT / UC Berkeley programs to upskill in coding and ML/AI. Please feel free to check out my past projects, prototypes and reach out to me if you have any questions.</p>
+                        <p>Welcome to my portfolio page. I'm Jing Li, a B2B enterprise product leader and strategist with 5 years with Amazon and 16+ years in supply chain/ logistics / eCommerce leadership. My work in Amazon included improving ML/AI platforms that power many tools with in the Amazon ecosystem, robotics and automation performance improvement, and indirect supply chain/ reverse logistics solutions to enable incremental revenue and save millions of dollars. I'm on a mission in 2025 to better understanding how to help businesses thrive in the competitive market place, especiall in the era of agentic AI, and digitization of industries. My focus area will be leveraging industry 4.0/ IIOT concepts and build my own MES, UNS, SCADA and Agentic orchestration prototypes, as well as completing my MIT / UC Berkeley programs to upskill in coding and ML/AI. Please feel free to check out my demos below and reach out to me if you have any questions.</p>
+                        <a href="https://www.linkedin.com/in/yourprofile" target="_blank" class="btn btn-primary">
+                            <i class="fab fa-linkedin"></i> Connect on LinkedIn
                     </div>
                 </div>
             </div>
@@ -89,59 +91,59 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
                     <div class="card">
                         <img src="coupon_barplot.png" class="card-img-top" alt="bar chart of coupon counts">
                         <div class="card-body">
-                            <h5 class="card-title">Coupon Acceptance Analysis</h5>
+                            <h5 class="card-title">Data-driven Insights on Coupon Acceptance</h5>
                             <p class="card-text">Python, Data Analytics, Matplotlib, Seaborn, Pandas, Numpy, Plotly</p>
-                            <a href="https://github.com/jing-li528/couponDataAnalysis" class="btn btn-primary">Coupon Analysis</a>
+                            <a href="https://github.com/jing-li528/couponDataAnalysis" class="btn btn-primary">Go to Repo</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-4">
                     <div class="card">
-                        <img src="..." class="card-img-top" alt="...">
+                        <img src="wip.png" class="card-img-top" alt="wip">
                         <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                            <h5 class="card-title">Demo#2</h5>
+                            <p class="card-text">Palceholder: demonstrated skills</p>
+                            <a href="#" class="btn btn-primary">Go to Repo</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-4">
                     <div class="card">
-                        <img src="..." class="card-img-top" alt="...">
+                        <img src="wip.png" class="card-img-top" alt="wip">
                         <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                            <h5 class="card-title">Demo#3</h5>
+                            <p class="card-text">Palceholder: demonstrated skills</p>
+                            <a href="#" class="btn btn-primary">Go to Repo</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-4">
                     <div class="card">
-                        <img src="..." class="card-img-top" alt="...">
+                        <img src="wip.png" class="card-img-top" alt="wip">
                         <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                            <h5 class="card-title">Demo#4</h5>
+                            <p class="card-text">Palceholder: demonstrated skills</p>
+                            <a href="#" class="btn btn-primary">Go to Repo</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-4">
                     <div class="card">
-                        <img src="..." class="card-img-top" alt="...">
+                        <img src="wip.png" class="card-img-top" alt="wip">
                         <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                            <h5 class="card-title">Demo#5</h5>
+                            <p class="card-text">Palceholder: demonstrated skills</p>
+                            <a href="#" class="btn btn-primary">Go to Repo</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4 mb-4">
                     <div class="card">
-                        <img src="..." class="card-img-top" alt="...">
+                        <img src="wip.png" class="card-img-top" alt="wip">
                         <div class="card-body">
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                            <h5 class="card-title">Demo#6</h5>
+                            <p class="card-text">Palceholder: demonstrated skills</p>
+                            <a href="#" class="btn btn-primary">Go to Repo</a>
                         </div>
                     </div>
                 </div>
