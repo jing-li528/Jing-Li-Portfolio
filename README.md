@@ -64,33 +64,42 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
     <div class="container my-5">
         <div class="intro-section text-center">
             <h2>About Me</h2>
-            <img src= "../102-aOwjlDGgD3c.jpeg">
-            <p>Welcome to my portfolio page. I'm Jing Li, a B2B enterprise product leader and strategist with 5 years with Amazon and 16+ years in supply chain/ logistics / eCommerce leadership. My work in Amazon included improving ML/AI platforms that power many tools with in the Amazon ecosystem, robotics and automation performance improvement, and indirect supply chain/ reverse logistics solutions to enable incremental revenue and save millions of dollars. I'm on a mission in 2025 to better understanding how to help businesses thrive in the competitive market place, especiall in the era of agentic AI, and digitization of industries. My focus area will be leveraging industry 4.0/ IIOT concepts and build my own MES, UNS, SCADA and Agentic orchestration prototypes, as well as completing my MIT / UC Berkeley programs to upskill in coding and ML/AI. Please feel free to check out my past projects, prototypes and reach out to me if you have any questions. 
+            <img src= "102-aOwjlDGgD3c.jpeg" alt="Profile Picture">
+            <p>Welcome to my portfolio page. I'm Jing Li, a B2B enterprise product leader and strategist with 5 years with Amazon and 16+ years in supply chain/ logistics / eCommerce leadership. My work in Amazon included improving ML/AI platforms that power many tools with in the Amazon ecosystem, robotics and automation performance improvement, and indirect supply chain/ reverse logistics solutions to enable incremental revenue and save millions of dollars. I'm on a mission in 2025 to better understanding how to help businesses thrive in the competitive market place, especiall in the era of agentic AI, and digitization of industries. My focus area will be leveraging industry 4.0/ IIOT concepts and build my own MES, UNS, SCADA and Agentic orchestration prototypes, as well as completing my MIT / UC Berkeley programs to upskill in coding and ML/AI. Please feel free to check out my demos and reach out to me if you have any questions. 
             </p>
         </div>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-3/mK2kHQDsdaFqXVoMaLk5eE8/0eH5M1G1qXqE3Fop1ThN/KLQMyOGHvKPYuR5" crossorigin="anonymous"></script>
-</body>
 
 <!-- About me section ends here -->
 
 <!-- Blog Posts Section Starts here, with added grid -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfolio Website</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-</head>
-<body>
-    <!-- Blog Posts Section starts here -->
     <section class="py-8">
         <div class="container mx-auto">
-            <h2 class="text-3xl font-bold mb-4 text-center">Latest Posts</h2>
+            <h2 class="text-4xl font-bold mb-4 text-center">Demos</h2>
             
             <!-- Project Cards starts here -->
             <div class="row">
+                <div class="col-md-4 mb-4">
+                    <div class="card">
+                        <img src="coupon_barplot.png" class="card-img-top" alt="bar chart of coupon counts">
+                        <div class="card-body">
+                            <h5 class="card-title">Coupon Acceptance Analysis</h5>
+                            <p class="card-text">Python, Data Analytics, Matplotlib, Seaborn, Pandas, Numpy, Plotly</p>
+                            <a href="https://github.com/jing-li528/couponDataAnalysis" class="btn btn-primary">Coupon Analysis</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mb-4">
+                    <div class="card">
+                        <img src="..." class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <a href="#" class="btn btn-primary">Go somewhere</a>
+                        </div>
+                    </div>
+                </div>
                 <div class="col-md-4 mb-4">
                     <div class="card">
                         <img src="..." class="card-img-top" alt="...">
@@ -141,6 +150,3 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
 </body>
 </html>
 
- <!-- Blog Posts Section Ends -->
- </body>
-</html>
