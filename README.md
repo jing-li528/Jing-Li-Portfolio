@@ -28,6 +28,16 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
             text-align: left;
             text-indent: 2em;
         }
+        .center-img {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            border-radius: 20px;
+        }
+        .small-img {
+            width: 24px;
+            height: 24px;
+        }
     </style>
  </head>
  <body>
@@ -66,9 +76,12 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
             <div class="col-md-6 offset-md-3">
                 <div class="card">
                     
-                    <img src="102-aOwjlDGgD3c.jpeg" class="card-img-top img-thumbnail img-fluid" style="max-width: 20%;" alt="Profile Picture">   
+                    <img src="102-aOwjlDGgD3c.jpeg" class="card-img-top img-thumbnail img-fluid center-img" style="max-width: 25%;" alt="Profile Picture">   
                     <a href="https://www.linkedin.com/in/jingli528" target="_blank">
-                    <img src="icon1.png" class="linkedin-icon" alt="LinkedIn icon">
+                    <img src="icon1.png" class="small-img" alt="LinkedIn icon">
+                    </a>
+                    <a href="mailto: jing.li5282013@gmail.com">
+                    <img src="icon2.png" class="small-img" alt="Email icon">
                     </a>
                     <div class="card-body text-center">
                         <h2>About Me</h2>
