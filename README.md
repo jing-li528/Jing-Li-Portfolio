@@ -32,11 +32,14 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
             display: block;
             margin-left: auto;
             margin-right: auto;
-            border-radius: 20px;
+            border-radius: 100px;
         }
         .small-img {
             width: 24px;
             height: 24px;
+            display: in-line;
+            margin-left:auto;
+            margin-right: auto;
         }
     </style>
  </head>
@@ -76,7 +79,7 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
             <div class="col-md-6 offset-md-3">
                 <div class="card">
                     
-                    <img src="102-aOwjlDGgD3c.jpeg" class="card-img-top img-thumbnail img-fluid center-img" style="max-width: 25%;" alt="Profile Picture">   
+                    <img src="102-aOwjlDGgD3c.jpeg" class="card-img-top img-thumbnail img-fluid center-img" style="max-width: 40%;" alt="Profile Picture">   
                     <a href="https://www.linkedin.com/in/jingli528" target="_blank">
                     <img src="icon1.png" class="small-img" alt="LinkedIn icon">
                     </a>
